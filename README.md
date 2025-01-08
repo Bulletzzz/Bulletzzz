@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bulletzzz
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me LinkedIn: Bernardo Küster Ragugnetti
+- 📫 How to reach me Discord: bulletz1711
   
 
 <!---
